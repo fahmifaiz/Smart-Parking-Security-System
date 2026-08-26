@@ -197,7 +197,7 @@ The terminal interface provides four options:
 
 ## Hardware
 
-The project uses two camera inputs:
+The Project uses two camera inputs:
 
 - Camera 1 for capturing the driver's face
 - Camera 2 for capturing the vehicle license plate
@@ -209,7 +209,7 @@ cv2.VideoCapture(0)
 cv2.VideoCapture(1)
 ```
 
-The project report describes testing with a **1080p webcam** and a **720p laptop camera**.
+The Project report describes testing with a **1080p webcam** and a **720p laptop camera**.
 
 ## Installation
 
