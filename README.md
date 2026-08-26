@@ -298,7 +298,7 @@ Smart-Parking-Security-System/
 │
 ├── parking_system.py
 ├── README.md
-├── LAPORAN PROJECT AKHIR UAS_KELOMPOK G.pdf
+├── Project.pdf
 │
 └── parking_data/
     ├── faces/
@@ -311,7 +311,7 @@ Smart-Parking-Security-System/
 
 A complete PDF report documenting the development, methodology, testing, results, and discussion of this project is included in this repository:
 
-**`LAPORAN PROJECT AKHIR UAS_KELOMPOK G.pdf`**
+**`Project.pdf`**
 
 The report covers topics including:
 
